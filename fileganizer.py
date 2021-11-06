@@ -230,7 +230,7 @@ startm = c.GREEN + """\
               |___/""" + c.END + f"""
 
 [{c.GREEN}+{c.END}] Author: Víctor Velázquez Cid
-[{c.GREEN}+{c.END}] Version: Alpha 1.0\
+[{c.GREEN}+{c.END}] Version: Beta 1.0\
 """
 
 options = """ 
