@@ -1,0 +1,9 @@
+Alpha 1.0:
+[+] Added folders creation
+[+] Added colors
+[+] Added directory selection
+[+] Added very large formats lists
+[+] Added files organization
+
+Beta 1.0
+[+] Added Windows compatibility
